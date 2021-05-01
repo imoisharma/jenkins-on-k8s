@@ -1,2 +1,2 @@
-# jenkins-on-k8s
-This is the running the Jenkins on Kubernetes
+# Jekins on Kubernetes
+Welcome to the documentation of running the Jenkins on Kubernetes V1.16
